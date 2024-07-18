@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clasonipou.github.io/sitemap
+Sitemap: https://clasonipou.github.io/app/sitemap
+Sitemap: https://clasonipou.github.io/assets/sitemap
+Sitemap: https://clasonipou.github.io/css/sitemap
+Sitemap: https://clasonipou.github.io/includes/sitemap
+Sitemap: https://clasonipou.github.io/item/sitemap
+Sitemap: https://clasonipou.github.io/src/sitemap
